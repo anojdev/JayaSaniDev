@@ -1,0 +1,15 @@
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\C_Sharp_Syntax_Master\bin\Debug\net8.0\C_Sharp_Syntax_Master.exe
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\C_Sharp_Syntax_Master\bin\Debug\net8.0\C_Sharp_Syntax_Master.deps.json
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\C_Sharp_Syntax_Master\bin\Debug\net8.0\C_Sharp_Syntax_Master.runtimeconfig.json
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\C_Sharp_Syntax_Master\bin\Debug\net8.0\C_Sharp_Syntax_Master.dll
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\C_Sharp_Syntax_Master\bin\Debug\net8.0\C_Sharp_Syntax_Master.pdb
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\C_Sharp_Syntax_Master\obj\Debug\net8.0\C_Sharp_Syntax_Master.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\C_Sharp_Syntax_Master\obj\Debug\net8.0\C_Sharp_Syntax_Master.AssemblyInfoInputs.cache
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\C_Sharp_Syntax_Master\obj\Debug\net8.0\C_Sharp_Syntax_Master.AssemblyInfo.cs
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\C_Sharp_Syntax_Master\obj\Debug\net8.0\C_Sharp_Syntax_Master.csproj.CoreCompileInputs.cache
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\C_Sharp_Syntax_Master\obj\Debug\net8.0\C_Sharp_Syntax_Master.sourcelink.json
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\C_Sharp_Syntax_Master\obj\Debug\net8.0\C_Sharp_Syntax_Master.dll
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\C_Sharp_Syntax_Master\obj\Debug\net8.0\refint\C_Sharp_Syntax_Master.dll
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\C_Sharp_Syntax_Master\obj\Debug\net8.0\C_Sharp_Syntax_Master.pdb
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\C_Sharp_Syntax_Master\obj\Debug\net8.0\C_Sharp_Syntax_Master.genruntimeconfig.cache
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\C_Sharp_Syntax_Master\obj\Debug\net8.0\ref\C_Sharp_Syntax_Master.dll

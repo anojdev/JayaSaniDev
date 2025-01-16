@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fn305jdqhslgnNY58ElsLiL5jb1LW8b1EhzFzyGQ501E6l6/8bwCl00Z6DDkGSQbZ96Ckmuvojco/Knhi7xr/w==",
+  "success": true,
+  "projectFilePath": "C:\\Anoj\\Projects\\AKSHADA\\C_Sharp_Infinity\\AsyncAwait\\AsyncAwait.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anojo\\.nuget\\packages\\nunit\\4.3.2\\nunit.4.3.2.nupkg.sha512",
+    "C:\\Users\\anojo\\.nuget\\packages\\nunit3testadapter\\4.6.0\\nunit3testadapter.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

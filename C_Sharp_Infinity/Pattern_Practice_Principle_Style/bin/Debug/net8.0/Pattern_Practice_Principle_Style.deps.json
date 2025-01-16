@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pattern_Practice_Principle_Style/1.0.0": {
+        "runtime": {
+          "Pattern_Practice_Principle_Style.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pattern_Practice_Principle_Style/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

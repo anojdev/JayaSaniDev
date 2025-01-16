@@ -1,0 +1,15 @@
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\EntityFramework\bin\Debug\net8.0\EntityFramework.exe
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\EntityFramework\bin\Debug\net8.0\EntityFramework.deps.json
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\EntityFramework\bin\Debug\net8.0\EntityFramework.runtimeconfig.json
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\EntityFramework\bin\Debug\net8.0\EntityFramework.dll
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\EntityFramework\bin\Debug\net8.0\EntityFramework.pdb
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\EntityFramework\obj\Debug\net8.0\EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\EntityFramework\obj\Debug\net8.0\EntityFramework.AssemblyInfoInputs.cache
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\EntityFramework\obj\Debug\net8.0\EntityFramework.AssemblyInfo.cs
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\EntityFramework\obj\Debug\net8.0\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\EntityFramework\obj\Debug\net8.0\EntityFramework.sourcelink.json
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\EntityFramework\obj\Debug\net8.0\EntityFramework.dll
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\EntityFramework\obj\Debug\net8.0\refint\EntityFramework.dll
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\EntityFramework\obj\Debug\net8.0\EntityFramework.pdb
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\EntityFramework\obj\Debug\net8.0\EntityFramework.genruntimeconfig.cache
+C:\Anoj\Projects\AKSHADA\C_Sharp_Infinity\EntityFramework\obj\Debug\net8.0\ref\EntityFramework.dll
